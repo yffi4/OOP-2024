@@ -1,3 +1,5 @@
+package time;
+
 public class TestTime {
     public static void main(String[] args){
         Time t1 = new Time(13, 24, 30);
